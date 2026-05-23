@@ -20,7 +20,7 @@ O objetivo do app é facilitar o registro, acompanhamento e organização de oco
 ---
 
 ## ➕ Cadastro de Nova Ocorrência
-- Titilo da Ocorrência
+- Título da Ocorrência
 - Detalhes
 - Botão Adicionar
 
