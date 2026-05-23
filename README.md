@@ -54,6 +54,6 @@ https://www.figma.com/design/WGnFdk2hSttK2oLOso7Qe4/Motiva-App?node-id=0-1&t=cjR
 ---
 
 # 👨‍💻 Desenvolvido por
-- Seu Nome
-- Equipe/Projeto
-- Faculdade ou Empresa (opcional)
+Integrantes: Lucas Kenzo Nishiwaki, Felipe Hui Hattori, Kauã Peres de Macedo, Rafael Vaz de Lima, André Eduardo Martins e Kauany Ribeiro de Moura 
+
+RMs: 561325, 565169, 563977, 566429, 563297 e 564576
