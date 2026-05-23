@@ -50,7 +50,7 @@ O protótipo foi desenvolvido para demonstrar a experiência do usuário e valid
 # 🔗 Link do Protótipo
 
 ```md
-https://figma.com/seu-link
+https://www.figma.com/design/WGnFdk2hSttK2oLOso7Qe4/Motiva-App?node-id=0-1&t=cjRBowPZu3xhR4ve-1
 ```
 
 ---
