@@ -43,7 +43,7 @@ O protótipo foi desenvolvido para demonstrar a experiência do usuário e valid
 
 # 📷 Preview do Projeto
 
-<img src="Captura de tela 2025-11-03 225258.png" width="1000">
+<img src="Captura de tela 2026-05-22 215958.png" width="1000">
 
 ---
 
